@@ -8,15 +8,29 @@ Downloads: https://releases.ansible.com/ansible-tower/setup-bundle/
 
 Latest: https://releases.ansible.com/ansible-tower/setup-bundle/ansible-tower-setup-bundle-latest.tar.gz
 
-### Repos
+Getting Started: https://github.com/harrytruman/ansible-tower
 
 1. [Tower Configuration](https://github.com/redhat-cop/tower_configuration/tree/devel/roles)
 2. [Tower Utilities](https://github.com/redhat-cop/tower_utilities/tree/devel/roles)
 3. [Tower Export](https://github.com/redhat-cop/tower_configuration/tree/devel/playbooks/tower_configs_export_model)
 4. [HA/DR - Streaming Replication](https://github.com/redhat-cop/automate-tower-ha-dr)
 
+### Networking
+
+Getting Started:
+1. [Facts](https://github.com/harrytruman/facts-machine)
+2. [Config and State Management](https://github.com/harrytruman/network-config)
+3. [Backups](https://github.com/victorock/backup_manager)
+4. [Network Automation GitHub](https://github.com/network-automation)
+
+#### Docs
+
+1. [Ansible Docs](https://docs.ansible.com/ansible/latest/network/index.html)
+2. [Ansible Network OS](https://github.com/ansible/ansible/blob/devel/docs/docsite/rst/network/user_guide/platform_index.rst)
+3. [OpenConfig Data Model](https://www.openconfig.net/projects/models/)
+
 ### Linux
-5. [Linux System Roles](https://github.com/linux-system-roles)
+1. [Linux System Roles](https://github.com/linux-system-roles)
 
 ### Support
 
@@ -24,7 +38,6 @@ Latest: https://releases.ansible.com/ansible-tower/setup-bundle/ansible-tower-se
 
 ### Training
 1. [Tower Workshops](https://ansible.github.io/workshops/)
-2. 
 
 ## Books
 
