@@ -8,8 +8,10 @@ Downloads: https://releases.ansible.com/ansible-tower/setup-bundle/
 
 Latest: https://releases.ansible.com/ansible-tower/setup-bundle/ansible-tower-setup-bundle-latest.tar.gz
 
-Getting Started: https://github.com/harrytruman/ansible-tower
+Getting Started: This repo will prep a RHEL 7/8 OS, and then download, install, and configure Tower with a an org and users, project, inventory, and credential before finally kicking off a fact collection job:
+https://github.com/harrytruman/ansible-tower
 
+#### Tools and Utilities
 1. [Tower Configuration](https://github.com/redhat-cop/tower_configuration/tree/devel/roles)
 2. [Tower Utilities](https://github.com/redhat-cop/tower_utilities/tree/devel/roles)
 3. [Tower Export](https://github.com/redhat-cop/tower_configuration/tree/devel/playbooks/tower_configs_export_model)
@@ -21,6 +23,7 @@ Getting Started:
 1. [Facts](https://github.com/harrytruman/facts-machine)
 2. [Config and State Management](https://github.com/harrytruman/network-config)
 3. [Backups](https://github.com/victorock/backup_manager)
+
 4. [Network Automation GitHub](https://github.com/network-automation)
 
 #### Docs
