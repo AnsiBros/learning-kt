@@ -46,3 +46,7 @@ Getting Started:
 
 1. [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 2. [The Open Organization](https://www.goodreads.com/book/show/23258978-the-open-organization)
+
+## Other Good Stuff
+
+1. [How to Be a Good Speaker](https://youtu.be/Unzc731iCUY)
